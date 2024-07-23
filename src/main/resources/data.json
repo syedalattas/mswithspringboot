@@ -1,0 +1,6 @@
+{
+  "message": "This is a hardcoded JSON response",
+  "data": {
+    "value": 10
+  }
+}
